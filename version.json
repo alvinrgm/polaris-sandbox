@@ -1,9 +1,9 @@
 {
-  "version": "1.42.8",
+  "version": "1.42.9",
   "notify": "1.42.0",
   "notes": "",
-  "sha": "e5d98b6872597f5f14e642847504b37188ab6ee4",
-  "at": "2026-11-19T23:14:14.605Z",
+  "sha": "8a25aead6268ea1b5ad2459fc6bff1f7ab620940",
+  "at": "2026-11-19T23:20:09.181Z",
   "capabilities": {
     "db": {
       "rules": [
