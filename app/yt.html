@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head><meta name="robots" content="noindex, nofollow">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<!-- The lift demo player for the iPhone app (app/screens/train/demos.js demoEmbed). The app's page runs at
+     capacitor://localhost, which can't send YouTube a Referer, and YouTube refuses an embed with none (Error 153,
+     "Video player configuration error"). The app frames this page from polarisbody.com/app/ instead, and this page
+     frames YouTube, so YouTube sees polarisbody.com. Only the 11-character video id is read from the address. -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'unsafe-inline'; frame-src https://www.youtube-nocookie.com">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="robots" content="noindex">
+<title>Polaris demo</title>
+<style>html,body{margin:0;height:100%;background:#000;overflow:hidden}iframe{position:absolute;inset:0;width:100%;height:100%;border:0}</style>
+</head>
+<body>
+<script src="yt.js"></script>
+</body>
+</html>
