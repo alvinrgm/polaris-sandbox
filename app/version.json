@@ -1,9 +1,9 @@
 {
-  "version": "1.42.13",
+  "version": "1.42.14",
   "notify": "1.42.11",
   "notes": "Setup now tells you what's missing when you tap Next, and takes you right to it.",
-  "sha": "d4c96cb989393c823a8fb56a37e0df17a36b3ebc",
-  "at": "2026-11-20T05:07:50.052Z",
+  "sha": "9fced53fb35f8c1727147b19153fb6226c80650a",
+  "at": "2026-11-20T05:09:41.502Z",
   "capabilities": {
     "db": {
       "rules": [
