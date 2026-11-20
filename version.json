@@ -1,9 +1,9 @@
 {
-  "version": "1.42.19",
+  "version": "1.42.20",
   "notify": "1.42.18",
   "notes": "Setup now shows the body fat example pictures up front, so you can tap the closest one. No photo needed.",
-  "sha": "25e92c5872a3efcbc017b6071e8af20823621394",
-  "at": "2026-11-20T15:19:17.887Z",
+  "sha": "724219ff0b0775b93a74fa81b17269ecb4aadbf9",
+  "at": "2026-11-20T18:17:10.125Z",
   "capabilities": {
     "db": {
       "rules": [
