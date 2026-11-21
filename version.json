@@ -1,9 +1,9 @@
 {
-  "version": "1.42.36",
+  "version": "1.42.37",
   "notify": "1.42.36",
   "notes": "Adding friends is easier: tap Add friends at the top of Social to find someone by their @handle or send them a link.",
-  "sha": "399ce9a937fb6dc741c0d63ddc1fb9efdebfbfa6",
-  "at": "2026-11-21T20:38:00.250Z",
+  "sha": "8cee43862fec417b8035cda58226414a99e3cf97",
+  "at": "2026-11-21T20:39:38.617Z",
   "capabilities": {
     "db": {
       "rules": [
