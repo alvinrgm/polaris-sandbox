@@ -1,9 +1,9 @@
 {
-  "version": "1.42.38",
-  "notify": "1.42.38",
-  "notes": "Find friends by name in Add friends, and turn it off on You if you'd rather only be found by @handle.",
-  "sha": "a03b18d5cd9834919a8d5ccb92a00963df0cffa7",
-  "at": "2026-11-21T23:44:37.188Z",
+  "version": "1.42.39",
+  "notify": "1.42.39",
+  "notes": "You can now pick more than one usual workout time, and workout reminders follow it.",
+  "sha": "e376cb28caaf0a7ecd87538197e6c038959c6141",
+  "at": "2026-11-21T23:48:05.813Z",
   "capabilities": {
     "db": {
       "rules": [
