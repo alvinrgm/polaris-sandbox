@@ -1,9 +1,9 @@
 {
-  "version": "1.42.35",
-  "notify": "1.42.18",
-  "notes": "Setup now shows the body fat example pictures up front, so you can tap the closest one. No photo needed.",
-  "sha": "f1acd457b29d07c72f7973d06f18c3a67f117ac1",
-  "at": "2026-11-21T13:04:04.797Z",
+  "version": "1.42.36",
+  "notify": "1.42.36",
+  "notes": "Adding friends is easier: tap Add friends at the top of Social to find someone by their @handle or send them a link.",
+  "sha": "399ce9a937fb6dc741c0d63ddc1fb9efdebfbfa6",
+  "at": "2026-11-21T20:38:00.250Z",
   "capabilities": {
     "db": {
       "rules": [
