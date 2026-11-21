@@ -1,9 +1,9 @@
 {
-  "version": "1.42.37",
-  "notify": "1.42.36",
-  "notes": "Adding friends is easier: tap Add friends at the top of Social to find someone by their @handle or send them a link.",
-  "sha": "8cee43862fec417b8035cda58226414a99e3cf97",
-  "at": "2026-11-21T20:39:38.617Z",
+  "version": "1.42.38",
+  "notify": "1.42.38",
+  "notes": "Find friends by name in Add friends, and turn it off on You if you'd rather only be found by @handle.",
+  "sha": "a03b18d5cd9834919a8d5ccb92a00963df0cffa7",
+  "at": "2026-11-21T23:44:37.188Z",
   "capabilities": {
     "db": {
       "rules": [
