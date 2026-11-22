@@ -1,9 +1,9 @@
 {
-  "version": "1.42.49",
+  "version": "1.42.50",
   "notify": "1.42.49",
   "notes": "Men's body fat examples are now more realistic.",
-  "sha": "8b20e9547190583e7a274d3224bfd69acd694f55",
-  "at": "2026-11-22T04:55:23.038Z",
+  "sha": "e833cbe54e9a700a639fc1a219c306e265f73012",
+  "at": "2026-11-22T05:03:08.586Z",
   "capabilities": {
     "db": {
       "rules": [
