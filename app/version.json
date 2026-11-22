@@ -1,9 +1,9 @@
 {
-  "version": "1.42.41",
+  "version": "1.42.42",
   "notify": "1.42.39",
   "notes": "You can now pick more than one usual workout time, and workout reminders follow it.",
-  "sha": "8076996a07fba7b11adb92a14f8a3f7a2ffeded3",
-  "at": "2026-11-22T00:07:51.610Z",
+  "sha": "20400312e89c5fd5419d06b65cc8515fa44ad655",
+  "at": "2026-11-22T00:53:11.352Z",
   "capabilities": {
     "db": {
       "rules": [
