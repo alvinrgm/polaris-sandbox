@@ -1,9 +1,9 @@
 {
-  "version": "1.42.47",
+  "version": "1.42.48",
   "notify": "1.42.47",
   "notes": "Women's body fat examples are more realistic, and goals under 20% now come with gentle guidance.",
-  "sha": "8d75de905f50ad8f7b14e69ac4d1f9cb7658d786",
-  "at": "2026-11-22T04:47:09.624Z",
+  "sha": "b2a566ccea7d431d05ab2955fe47a8d523da57ff",
+  "at": "2026-11-22T04:53:19.173Z",
   "capabilities": {
     "db": {
       "rules": [
