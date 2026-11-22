@@ -1,9 +1,9 @@
 {
-  "version": "1.42.46",
-  "notify": "1.42.39",
-  "notes": "You can now pick more than one usual workout time, and workout reminders follow it.",
-  "sha": "66bbfaebe69906f333bc73c8a15e93bb3a5b5b97",
-  "at": "2026-11-22T04:10:55.980Z",
+  "version": "1.42.47",
+  "notify": "1.42.47",
+  "notes": "Women's body fat examples are more realistic, and goals under 20% now come with gentle guidance.",
+  "sha": "8d75de905f50ad8f7b14e69ac4d1f9cb7658d786",
+  "at": "2026-11-22T04:47:09.624Z",
   "capabilities": {
     "db": {
       "rules": [
