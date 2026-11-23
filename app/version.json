@@ -1,9 +1,9 @@
 {
-  "version": "1.42.61",
+  "version": "1.42.62",
   "notify": "1.42.56",
   "notes": "Add friends now suggests people you may know, and everyone can be found by name from the day they sign up.",
-  "sha": "b598cdbf7338bf7f639fa121521a6525f6cfd6cb",
-  "at": "2026-11-23T18:05:44.514Z",
+  "sha": "4cc2c55cc786e98d3779aa733cf5fa90b71d0db2",
+  "at": "2026-11-23T19:02:05.920Z",
   "capabilities": {
     "db": {
       "rules": [
