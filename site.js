@@ -19,7 +19,24 @@ const T = (name, params, once) => window.polarisTrack && window.polarisTrack(nam
  
   // There is no waitlist any more (11/17/26): "Get early access" opens the web app's sign-up. A tap on it is the
   // site's lead (once per page view, never with any personal data); the app counts the sign-up itself.
-  document.querySelectorAll('a[href="app/"]').forEach((a) => a.addEventListener("click", () => T("generate_lead", { page: PAGE }, true)));
+  // Where the visitor came from (11/23/26): the app's first-touch attribution only sees the URL it opens and the
+  // page before it, so without this every site sign-up looked like "from polarisbody.com". The first landing in a
+  // visit keeps its utm_*/ref (or, with none, the outside site it came from), and each "Get early access" carries it.
+  const from = (() => {
+    const K = "polaris.from"; let f = null;
+    try { f = JSON.parse(sessionStorage.getItem(K)); } catch (e) {}
+    if (f) return f;
+    const q = new URLSearchParams(location.search), keep = {};
+    ["utm_source", "utm_medium", "utm_campaign", "utm_content", "utm_term", "ref"].forEach((k) => { if (q.get(k)) keep[k] = q.get(k).slice(0, 120); });
+    let host = ""; try { host = document.referrer ? new URL(document.referrer).hostname : ""; } catch (e) {}
+    if (!Object.keys(keep).length && host && host !== location.hostname) { keep.utm_source = host.replace(/^(www|m|l|lm)\./, ""); keep.utm_medium = "referral"; }
+    try { sessionStorage.setItem(K, JSON.stringify(keep)); } catch (e) {}
+    return keep;
+  })();
+  document.querySelectorAll('a[href="app/"]').forEach((a) => a.addEventListener("click", () => {
+    T("generate_lead", { page: PAGE }, true);
+    if (Object.keys(from).length) a.href = "app/?" + new URLSearchParams(from);
+  }));
 
   // "Built for where you are" on phones: one card at a time. The chips scroll to a card; swiping updates the chips.
   const pick = document.querySelectorAll(".who-pick [data-who]"), track = document.querySelector(".who-cards");

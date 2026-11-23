@@ -13,6 +13,13 @@
   var p = location.pathname, m;
   if ((m = p.match(/^\/s\/([A-Za-z0-9]{8})\/?$/))) location.replace("/app/?share=" + m[1].toUpperCase() + "&ref=share");
   else if ((m = p.match(/^\/@([A-Za-z0-9_]{3,20})\/?$/))) location.replace("/app/?u=" + m[1].toLowerCase() + "&ref=handle");
+  // Link-in-bio and caption links (11/23/26): polarisbody.com/ig, /tt, /yt, /x, /th open the home page tagged with the
+  // platform, so the site's analytics and the app's first-touch attribution both see which profile sent the visit.
+  // /ig/<post> (e.g. /tt/s05) also names the post.
+  else if ((m = p.match(/^\/(ig|tt|yt|x|th|fb|rd)(?:\/([A-Za-z0-9_-]{1,40}))?\/?$/i))) {
+    var src = { ig: "instagram", tt: "tiktok", yt: "youtube", x: "x", th: "threads", fb: "facebook", rd: "reddit" }[m[1].toLowerCase()];
+    location.replace("/?utm_source=" + src + "&utm_medium=social&utm_campaign=" + (m[2] ? "post&utm_content=" + m[2].toLowerCase() : "bio"));
+  }
 })();
 </script>
 <style>
