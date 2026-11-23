@@ -1,9 +1,9 @@
 {
-  "version": "1.42.55",
-  "notify": "1.42.49",
-  "notes": "Men's body fat examples are now more realistic.",
-  "sha": "594d4412a7f119b524bf3c4f4d20e46a36fe00c2",
-  "at": "2026-11-22T18:16:11.494Z",
+  "version": "1.42.56",
+  "notify": "1.42.56",
+  "notes": "Add friends now suggests people you may know, and everyone can be found by name from the day they sign up.",
+  "sha": "f3d3c708f84f3293f5f8e883f1f95599f011c591",
+  "at": "2026-11-23T02:51:19.598Z",
   "capabilities": {
     "db": {
       "rules": [
