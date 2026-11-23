@@ -1,9 +1,9 @@
 {
-  "version": "1.42.65",
-  "notify": "1.42.56",
-  "notes": "Add friends now suggests people you may know, and everyone can be found by name from the day they sign up.",
-  "sha": "12259fad50c39a3ba5ff03d6e7a591371f23f372",
-  "at": "2026-11-23T19:34:23.869Z",
+  "version": "1.42.66",
+  "notify": "1.42.66",
+  "notes": "See every change to your plan, with when and how, under Plan changes on Week.",
+  "sha": "b360500109196002e438f9a47f5eeadc99653b19",
+  "at": "2026-11-23T19:40:04.400Z",
   "capabilities": {
     "db": {
       "rules": [
