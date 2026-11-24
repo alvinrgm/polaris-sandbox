@@ -20,12 +20,13 @@ self.addEventListener("fetch", (e) => {
     return r;
   })));
 });
-// Comeback reminders (migration 20261111070000_comeback): the nudge function sends {id, title, body, url}; a tap opens
+// Comeback reminders (migration 20261111070000_comeback) and friend pushes (20261124010000_social_push): the nudge function
+// sends {id, title, body, url, tag?}; a friend push has its own tag so it never replaces a reminder. A tap opens
 // (or focuses) the app at that address, which tells the server it was opened.
 self.addEventListener("push", (e) => {
   let d = {}; try { d = e.data ? e.data.json() : {}; } catch (x) {}
   if (!d.title) return;
-  e.waitUntil(self.registration.showNotification(d.title, { body: d.body || "", icon: "icon-192.png", badge: "icon-192.png", tag: "polaris-nudge", data: { url: d.url || "./" } }));
+  e.waitUntil(self.registration.showNotification(d.title, { body: d.body || "", icon: "icon-192.png", badge: "icon-192.png", tag: d.tag || "polaris-nudge", data: { url: d.url || "./" } }));
 });
 self.addEventListener("notificationclick", (e) => {
   e.notification.close();
