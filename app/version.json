@@ -1,9 +1,9 @@
 {
-  "version": "1.42.84",
-  "notify": "1.42.84",
-  "notes": "Whoever finishes the week #1 among their friends or crew now gets a crown by their name, and you get a You were #1 card when it's you.",
-  "sha": "32f786d03f5585d579c93febf49b0e2c61200ed8",
-  "at": "2026-11-24T05:03:25.096Z",
+  "version": "1.42.85",
+  "notify": "1.42.85",
+  "notes": "When you finish the week #1, it's posted to your friends' Feed so they can celebrate it, and you get a notification.",
+  "sha": "6417b427ce78dbef53230ba78bdf0522e7ed6217",
+  "at": "2026-11-24T05:29:57.184Z",
   "capabilities": {
     "db": {
       "rules": [
