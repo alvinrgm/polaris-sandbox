@@ -1,9 +1,9 @@
 {
-  "version": "1.42.82",
+  "version": "1.42.83",
   "notify": "1.42.66",
   "notes": "See every change to your plan, with when and how, under Plan changes on Week.",
-  "sha": "3e423d82dcd0a9c63d9b22b086d6b936575e13b9",
-  "at": "2026-11-24T04:37:35.326Z",
+  "sha": "e7e3e2430c9e708828806e45165eb05ca61acfc4",
+  "at": "2026-11-24T04:50:53.092Z",
   "capabilities": {
     "db": {
       "rules": [
