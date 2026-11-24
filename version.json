@@ -1,9 +1,9 @@
 {
-  "version": "1.42.83",
-  "notify": "1.42.66",
-  "notes": "See every change to your plan, with when and how, under Plan changes on Week.",
-  "sha": "e7e3e2430c9e708828806e45165eb05ca61acfc4",
-  "at": "2026-11-24T04:50:53.092Z",
+  "version": "1.42.84",
+  "notify": "1.42.84",
+  "notes": "Whoever finishes the week #1 among their friends or crew now gets a crown by their name, and you get a You were #1 card when it's you.",
+  "sha": "32f786d03f5585d579c93febf49b0e2c61200ed8",
+  "at": "2026-11-24T05:03:25.096Z",
   "capabilities": {
     "db": {
       "rules": [
