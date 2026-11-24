@@ -1,9 +1,9 @@
 {
-  "version": "1.42.88",
+  "version": "1.42.89",
   "notify": "1.42.86",
   "notes": "Comments on a #1 week now say so, and tapping one opens that post.",
-  "sha": "94fa9b7495148d621a06baae0438083c693d2f7b",
-  "at": "2026-11-24T05:57:31.569Z",
+  "sha": "b778037c71a9b140c636fa9cd523bd587577c477",
+  "at": "2026-11-24T13:00:39.135Z",
   "capabilities": {
     "db": {
       "rules": [
