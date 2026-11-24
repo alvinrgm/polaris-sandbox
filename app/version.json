@@ -1,9 +1,9 @@
 {
-  "version": "1.42.101",
+  "version": "1.42.102",
   "notify": "1.42.99",
   "notes": "While travelling, you can change the gear you have from the trip card and your travel plan updates to match.",
-  "sha": "c9753f45b9ce7ff5f4586dd99dd96a768fbe56e9",
-  "at": "2026-11-24T21:18:47.917Z",
+  "sha": "a9fc9358914b966c7781e4081ea45533d9f12434",
+  "at": "2026-11-24T21:29:31.154Z",
   "capabilities": {
     "db": {
       "rules": [
