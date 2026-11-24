@@ -1,9 +1,9 @@
 {
-  "version": "1.42.92",
+  "version": "1.42.93",
   "notify": "1.42.91",
   "notes": "Travel mode asks what gear you'll have, so your travel plan never needs a bench, ball or machine you don't have.",
-  "sha": "b4fcf15b4fa9820c0ecdab566a741329a4142174",
-  "at": "2026-11-24T19:35:55.974Z",
+  "sha": "a9a07079da0962c9028f8155be190dfc9e0088ae",
+  "at": "2026-11-24T19:46:12.835Z",
   "capabilities": {
     "db": {
       "rules": [
