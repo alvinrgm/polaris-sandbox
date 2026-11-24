@@ -1,9 +1,9 @@
 {
-  "version": "1.42.98",
-  "notify": "1.42.91",
-  "notes": "Travel mode asks what gear you'll have, so your travel plan never needs a bench, ball or machine you don't have.",
-  "sha": "3e5df66b02e12d44554a6a18e2391f1acd7afd2a",
-  "at": "2026-11-24T20:52:01.609Z",
+  "version": "1.42.99",
+  "notify": "1.42.99",
+  "notes": "While travelling, you can change the gear you have from the trip card and your travel plan updates to match.",
+  "sha": "a2bbcdfc95ed06de3bf2e617bfcd8cfc0612bae0",
+  "at": "2026-11-24T21:00:56.126Z",
   "capabilities": {
     "db": {
       "rules": [
