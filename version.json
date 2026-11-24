@@ -1,9 +1,9 @@
 {
-  "version": "1.42.104",
-  "notify": "1.42.99",
-  "notes": "While travelling, you can change the gear you have from the trip card and your travel plan updates to match.",
-  "sha": "a3bfa597566c987ce108ecb7fd4e19b7564938e2",
-  "at": "2026-11-24T21:52:38.938Z",
+  "version": "1.42.105",
+  "notify": "1.42.105",
+  "notes": "Adding Polaris to your Home Screen is now one tap from Home, with steps for your browser.",
+  "sha": "953ac47dd63c37e5a3344b896a1cad387f31569e",
+  "at": "2026-11-24T22:05:25.261Z",
   "capabilities": {
     "db": {
       "rules": [
