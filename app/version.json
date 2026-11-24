@@ -1,9 +1,9 @@
 {
-  "version": "1.42.85",
-  "notify": "1.42.85",
-  "notes": "When you finish the week #1, it's posted to your friends' Feed so they can celebrate it, and you get a notification.",
-  "sha": "6417b427ce78dbef53230ba78bdf0522e7ed6217",
-  "at": "2026-11-24T05:29:57.184Z",
+  "version": "1.42.86",
+  "notify": "1.42.86",
+  "notes": "Comments on a #1 week now say so, and tapping one opens that post.",
+  "sha": "e182404716200a8a0d8102a8948f0440afb410f1",
+  "at": "2026-11-24T05:46:20.463Z",
   "capabilities": {
     "db": {
       "rules": [
