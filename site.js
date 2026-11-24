@@ -1,4 +1,4 @@
-// Polaris site: sticky nav border, scroll reveal, the "Get early access" lead event and funnel events.
+// Polaris site: sticky nav border, scroll reveal, the "Start free" lead event and funnel events.
 const PAGE = (location.pathname.match(/\/([a-z0-9-]+)(?:\.html)?$/) || [, "home"])[1].replace(/^index$/, "home");
 const T = (name, params, once) => window.polarisTrack && window.polarisTrack(name, params, { once: !!once });
 (() => {
@@ -17,11 +17,11 @@ const T = (name, params, once) => window.polarisTrack && window.polarisTrack(nam
     items.forEach((el) => io.observe(el));
   } else items.forEach((el) => el.classList.add("in"));
  
-  // There is no waitlist any more (11/17/26): "Get early access" opens the web app's sign-up. A tap on it is the
+  // There is no waitlist any more (11/17/26): "Start free" opens the web app's sign-up. A tap on it is the
   // site's lead (once per page view, never with any personal data); the app counts the sign-up itself.
   // Where the visitor came from (11/23/26): the app's first-touch attribution only sees the URL it opens and the
   // page before it, so without this every site sign-up looked like "from polarisbody.com". The first landing in a
-  // visit keeps its utm_*/ref (or, with none, the outside site it came from), and each "Get early access" carries it.
+  // visit keeps its utm_*/ref (or, with none, the outside site it came from), and each "Start free" carries it.
   const from = (() => {
     const K = "polaris.from"; let f = null;
     try { f = JSON.parse(sessionStorage.getItem(K)); } catch (e) {}
