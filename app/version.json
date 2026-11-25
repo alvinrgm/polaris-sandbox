@@ -1,9 +1,9 @@
 {
-  "version": "1.42.110",
+  "version": "1.42.111",
   "notify": "1.42.105",
   "notes": "Adding Polaris to your Home Screen is now one tap from Home, with steps for your browser.",
-  "sha": "06845bc99d88421f27b3a9ade09bb95d4fc47bd2",
-  "at": "2026-11-24T23:10:24.764Z",
+  "sha": "d9224496bbe5fbc5d4edcac21ee190fd3dc24395",
+  "at": "2026-11-25T00:41:39.029Z",
   "capabilities": {
     "db": {
       "rules": [
