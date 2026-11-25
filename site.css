@@ -461,3 +461,19 @@ footer nav{flex-wrap:wrap}
   .who-card h3{font-size:26px}
 }
 #compare .vs caption.vs-note{caption-side:bottom;display:table-caption;text-align:left;font:italic 19px/1.4 var(--serif);color:var(--mute);padding:18px 0 0}
+
+/* ---- 11/24/26: the hero shows the real app beside the headline, and a computer gets a QR code to open it on the phone ---- */
+.hero-qr{display:none}
+.hero-app{margin:36px auto 0;width:min(240px,62vw);border-radius:32px;overflow:hidden;box-shadow:0 0 0 8px #0B1C1B,0 0 0 9px rgba(243,239,232,.18),0 40px 80px -30px rgba(0,0,0,.6)}
+.hero-app img{display:block;width:100%;height:auto}
+@media (min-width:901px){
+  .hero.night .wrap{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:64px;align-items:end}
+  .hero.night h1{font-size:clamp(50px,7.2vw,112px)}
+  .hero-app{margin:0;width:min(300px,calc((100svh - 220px) * .4622));border-radius:40px;box-shadow:0 0 0 10px #0B1C1B,0 0 0 11px rgba(243,239,232,.18),0 50px 100px -30px rgba(0,0,0,.6)}
+  .hero-qr{display:flex;gap:16px;align-items:center;margin-top:32px;max-width:26em}
+  .hero-qr img{flex:none;width:88px;height:88px;border-radius:10px}
+  .hero-qr p{font-size:14px;line-height:1.45;color:rgba(243,239,232,.7)}
+  .hero-qr b{color:#F3EFE8;font-weight:600}
+  /* the slim cookie bar covers the last 60px of the first screen: keep the QR code and the phone clear of it */
+  body:has(.consent) .hero.night .wrap{padding-bottom:96px}
+}
