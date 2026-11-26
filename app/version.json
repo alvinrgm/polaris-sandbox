@@ -1,9 +1,9 @@
 {
-  "version": "1.42.159",
+  "version": "1.42.160",
   "notify": "1.42.158",
   "notes": "Plan is calmer: an open day shows its exercises and three actions, and the rest is one tap away under More.",
-  "sha": "f9253d7e00fc35f4de7dc98c42585d0b5d8f3d1b",
-  "at": "2026-11-26T02:48:19.642Z",
+  "sha": "5cce468726520d150e2dd297d4adee6cf28e5bae",
+  "at": "2026-11-26T03:08:28.083Z",
   "capabilities": {
     "db": {
       "rules": [
