@@ -1,9 +1,9 @@
 {
-  "version": "1.42.164",
-  "notify": "1.42.158",
-  "notes": "Plan is calmer: an open day shows its exercises and three actions, and the rest is one tap away under More.",
-  "sha": "cee3a73a8ec0b6bb4ccb83dbae50ab64fed2d313",
-  "at": "2026-11-26T03:49:24.829Z",
+  "version": "1.42.165",
+  "notify": "1.42.165",
+  "notes": "Setup is shorter: body fat and daily movement now sit on your targets screen, under Adjust.",
+  "sha": "6b4b72a89966d5c236cd195387f343a5a932c528",
+  "at": "2026-11-26T03:55:42.991Z",
   "capabilities": {
     "db": {
       "rules": [
