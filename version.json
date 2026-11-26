@@ -1,9 +1,9 @@
 {
-  "version": "1.42.167",
+  "version": "1.42.168",
   "notify": "1.42.166",
   "notes": "Tag friends in comments: type @ and pick a name, and they'll get a notification.",
-  "sha": "5b157685b6c9b183907635035c617ff10fed9b20",
-  "at": "2026-11-26T04:14:27.297Z",
+  "sha": "900b99dfe34e093495740ff68babd02b26d7e952",
+  "at": "2026-11-26T04:29:57.789Z",
   "capabilities": {
     "db": {
       "rules": [
