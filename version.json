@@ -1,9 +1,9 @@
 {
-  "version": "1.42.187",
+  "version": "1.42.188",
   "notify": "1.42.185",
   "notes": "Pick when your first workout is right after setup, and Polaris counts down to it and reminds you then.",
-  "sha": "e09dc5f9f82f27c377867b3966ed8078dcf18ac0",
-  "at": "2026-11-26T08:07:35.794Z",
+  "sha": "e6ca3b2454431fa2fe41f7a1d6be9049e65b1ca9",
+  "at": "2026-11-26T08:52:29.760Z",
   "capabilities": {
     "db": {
       "rules": [
