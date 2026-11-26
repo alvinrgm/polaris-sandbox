@@ -1,9 +1,9 @@
 {
-  "version": "1.42.157",
-  "notify": "1.42.157",
-  "notes": "Home and Train now say \"workout\" everywhere: Start workout, Finish workout, Workout done.",
-  "sha": "acc94407673cdc3b4c044a07e471c9335fdd5588",
-  "at": "2026-11-26T02:22:14.785Z",
+  "version": "1.42.158",
+  "notify": "1.42.158",
+  "notes": "Plan is calmer: an open day shows its exercises and three actions, and the rest is one tap away under More.",
+  "sha": "b2a25c988338ae012ebb3847a238841d3b76fdd1",
+  "at": "2026-11-26T02:32:04.468Z",
   "capabilities": {
     "db": {
       "rules": [
