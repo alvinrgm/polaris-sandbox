@@ -1,9 +1,9 @@
 {
-  "version": "1.42.153",
+  "version": "1.42.154",
   "notify": "1.42.144",
   "notes": "After you log a lift, the screen now shows the next lift in full instead of hiding its name under the top bar.",
-  "sha": "857cd0158c08951beec50e8a6ecf07c9a77c4237",
-  "at": "2026-11-26T01:52:17.912Z",
+  "sha": "0f070a01c19b857057b0c5af2a361f0c1869b5dc",
+  "at": "2026-11-26T01:56:59.232Z",
   "capabilities": {
     "db": {
       "rules": [
