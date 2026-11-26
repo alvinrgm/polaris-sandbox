@@ -1,9 +1,9 @@
 {
-  "version": "1.42.156",
-  "notify": "1.42.144",
-  "notes": "After you log a lift, the screen now shows the next lift in full instead of hiding its name under the top bar.",
-  "sha": "b060e3bf16ec381d8448b2484875380118f8a7b7",
-  "at": "2026-11-26T02:14:00.955Z",
+  "version": "1.42.157",
+  "notify": "1.42.157",
+  "notes": "Home and Train now say \"workout\" everywhere: Start workout, Finish workout, Workout done.",
+  "sha": "acc94407673cdc3b4c044a07e471c9335fdd5588",
+  "at": "2026-11-26T02:22:14.785Z",
   "capabilities": {
     "db": {
       "rules": [
