@@ -1,9 +1,9 @@
 {
-  "version": "1.42.182",
+  "version": "1.42.183",
   "notify": "1.42.175",
   "notes": "Polaris now asks your usual workout time right after your first workout, so your reminder comes at the right hour.",
-  "sha": "c91faa0b2af7084ec1576fc508443ae15f89ae10",
-  "at": "2026-11-26T06:17:38.814Z",
+  "sha": "7705e2409b4a90f0a2793e5e1c70920666a5c13c",
+  "at": "2026-11-26T06:33:42.706Z",
   "capabilities": {
     "db": {
       "rules": [
