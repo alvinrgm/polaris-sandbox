@@ -1,9 +1,9 @@
 {
-  "version": "1.42.143",
-  "notify": "1.42.143",
-  "notes": "Tapping between text boxes, like a lift's weight and reps, no longer makes the screen jump. The Week tab in Train is now Plan, with a clear This week | Every week switch.",
-  "sha": "87acc7c59df79f33af1422f5860f1b05646bc8d2",
-  "at": "2026-11-26T00:57:44.544Z",
+  "version": "1.42.144",
+  "notify": "1.42.144",
+  "notes": "After you log a lift, the screen now shows the next lift in full instead of hiding its name under the top bar.",
+  "sha": "a23bae53248b12a9ba27c248d8b7e12a75442019",
+  "at": "2026-11-26T01:05:13.136Z",
   "capabilities": {
     "db": {
       "rules": [
