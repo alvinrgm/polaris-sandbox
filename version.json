@@ -1,9 +1,9 @@
 {
-  "version": "1.42.142",
-  "notify": "1.42.105",
-  "notes": "Adding Polaris to your Home Screen is now one tap from Home, with steps for your browser.",
-  "sha": "de89066f88bbfb42f1365d98ec2db3e6c6af9b78",
-  "at": "2026-11-26T00:45:27.987Z",
+  "version": "1.42.143",
+  "notify": "1.42.143",
+  "notes": "Tapping between text boxes, like a lift's weight and reps, no longer makes the screen jump. The Week tab in Train is now Plan, with a clear This week | Every week switch.",
+  "sha": "87acc7c59df79f33af1422f5860f1b05646bc8d2",
+  "at": "2026-11-26T00:57:44.544Z",
   "capabilities": {
     "db": {
       "rules": [

@@ -81,5 +81,10 @@
   "103": "Fixed: names with \"&\" show the \"&\" on Today, in every card line.",
   "104": "Fixed: a set you added shows Remove a set on the lift's card, also after you log it.",
   "105": "Fixed in 1.42.191: Recalculate on a photo meal works from its items, and typing a portion like three-fourths sets it.",
-  "106": "Fixed in 1.42.191: the full meal is saved and your portion (like Ate about half) sits on top, so the chips show it."
+  "106": "Fixed in 1.42.191: the full meal is saved and your portion (like Ate about half) sits on top, so the chips show it.",
+  "148": "Fixed: the move-up sheet shows Why now, each day's moves before and after, and Ask the coach to push back.",
+  "149": "Fixed: an ache's ⋯ menu has Remove it (with Undo), so an abandoned ache can be deleted.",
+  "153": "Fixed: demo videos play in the iPhone app through the polarisbody.com player, no more error.",
+  "155": "Fixed: the Train card's button says Start <day> until a set is in, and Add something is inside the session it opens.",
+  "156": "Fixed: the Train card's title shows the day's whole name and wraps instead of cutting it."
 }
