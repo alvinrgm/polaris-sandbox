@@ -1,9 +1,9 @@
 {
-  "version": "1.42.174",
-  "notify": "1.42.166",
-  "notes": "Tag friends in comments: type @ and pick a name, and they'll get a notification.",
-  "sha": "18ac4b9456f8aed54ee303fc1220fe79f543e8c4",
-  "at": "2026-11-26T05:15:30.786Z",
+  "version": "1.42.175",
+  "notify": "1.42.175",
+  "notes": "Polaris now asks your usual workout time right after your first workout, so your reminder comes at the right hour.",
+  "sha": "86fd5098390d05a2c94251c4dbca79cb61dace5c",
+  "at": "2026-11-26T05:19:12.004Z",
   "capabilities": {
     "db": {
       "rules": [
