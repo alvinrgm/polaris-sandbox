@@ -1,9 +1,9 @@
 {
-  "version": "1.42.200",
+  "version": "1.42.201",
   "notify": "1.42.193",
   "notes": "The ? on each tab is now a quick tour that lights up the buttons that matter, one short line at a time.",
-  "sha": "ff6ea230d7564a963219e265f1eb2fdd97ee7fc2",
-  "at": "2026-11-28T15:30:32.823Z",
+  "sha": "d053cf3ebb5ec92c544e304848cb90399a0d53fa",
+  "at": "2026-11-28T15:41:15.629Z",
   "capabilities": {
     "db": {
       "rules": [
