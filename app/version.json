@@ -1,9 +1,9 @@
 {
-  "version": "1.42.206",
+  "version": "1.42.207",
   "notify": "1.42.206",
   "notes": "Badges now have their own icons and are split into Gym and Nutrition. Tap one to see what it means.",
-  "sha": "786ec5a508b5a43be38804e58b38412370de51ab",
-  "at": "2026-11-28T16:44:40.815Z",
+  "sha": "72b3bba74ea420433470b74fe6602f16da34a5a8",
+  "at": "2026-11-28T16:54:35.135Z",
   "capabilities": {
     "db": {
       "rules": [
