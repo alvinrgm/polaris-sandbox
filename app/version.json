@@ -1,9 +1,9 @@
 {
-  "version": "1.42.190",
-  "notify": "1.42.185",
-  "notes": "Pick when your first workout is right after setup, and Polaris counts down to it and reminds you then.",
-  "sha": "39d169ff13855d0ba042ba7b220c6d0e19537e88",
-  "at": "2026-11-27T19:04:16.754Z",
+  "version": "1.42.191",
+  "notify": "1.42.191",
+  "notes": "New badges for hitting your protein target and eating the rainbow, and a Badges sheet on Progress that shows how to earn each one.",
+  "sha": "3826830d6e2972651ac5bb6bdc5fa610337d3257",
+  "at": "2026-11-28T03:39:23.042Z",
   "capabilities": {
     "db": {
       "rules": [
