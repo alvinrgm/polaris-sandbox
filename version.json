@@ -1,9 +1,9 @@
 {
-  "version": "1.42.191",
-  "notify": "1.42.191",
-  "notes": "New badges for hitting your protein target and eating the rainbow, and a Badges sheet on Progress that shows how to earn each one.",
-  "sha": "3826830d6e2972651ac5bb6bdc5fa610337d3257",
-  "at": "2026-11-28T03:39:23.042Z",
+  "version": "1.42.192",
+  "notify": "1.42.192",
+  "notes": "The coach's plan changes now go day by day: accept or decline each changed day before you save.",
+  "sha": "5ff30033d6a8e51460ef7b81f44469c4fdad8f94",
+  "at": "2026-11-28T06:05:24.098Z",
   "capabilities": {
     "db": {
       "rules": [
