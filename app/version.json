@@ -1,9 +1,9 @@
 {
-  "version": "1.42.203",
-  "notify": "1.42.193",
-  "notes": "The ? on each tab is now a quick tour that lights up the buttons that matter, one short line at a time.",
-  "sha": "6720e40d1d2dc6c9a150ed52b9ff313604fd1dd1",
-  "at": "2026-11-28T15:50:33.734Z",
+  "version": "1.42.204",
+  "notify": "1.42.204",
+  "notes": "Kudos and comments under each post got a cleaner look: see who cheered, read the newest comments, and tap the faces to see everyone who gave kudos.",
+  "sha": "3402362fc926414885fba4e33100a33728020aae",
+  "at": "2026-11-28T16:13:42.823Z",
   "capabilities": {
     "db": {
       "rules": [
