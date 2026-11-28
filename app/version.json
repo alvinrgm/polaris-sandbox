@@ -1,9 +1,9 @@
 {
-  "version": "1.42.192",
-  "notify": "1.42.192",
-  "notes": "The coach's plan changes now go day by day: accept or decline each changed day before you save.",
-  "sha": "5ff30033d6a8e51460ef7b81f44469c4fdad8f94",
-  "at": "2026-11-28T06:05:24.098Z",
+  "version": "1.42.193",
+  "notify": "1.42.193",
+  "notes": "The ? on each tab is now a quick tour that lights up the buttons that matter, one short line at a time.",
+  "sha": "5db39eabbc607e59937456c9c6fd967010be859d",
+  "at": "2026-11-28T08:09:34.994Z",
   "capabilities": {
     "db": {
       "rules": [
