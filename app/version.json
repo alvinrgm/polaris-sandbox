@@ -1,9 +1,9 @@
 {
-  "version": "1.42.205",
-  "notify": "1.42.204",
-  "notes": "Kudos and comments under each post got a cleaner look: see who cheered, read the newest comments, and tap the faces to see everyone who gave kudos.",
-  "sha": "5ba687112a1dbd9ee2da0338be95e15e61ebfcb3",
-  "at": "2026-11-28T16:39:52.638Z",
+  "version": "1.42.206",
+  "notify": "1.42.206",
+  "notes": "Badges now have their own icons and are split into Gym and Nutrition. Tap one to see what it means.",
+  "sha": "786ec5a508b5a43be38804e58b38412370de51ab",
+  "at": "2026-11-28T16:44:40.815Z",
   "capabilities": {
     "db": {
       "rules": [
