@@ -1,9 +1,9 @@
 {
-  "version": "1.42.208",
+  "version": "1.42.209",
   "notify": "1.42.208",
   "notes": "Follow a badge's progress on Home: open it in Progress › XP › Badges and turn on Show on Home.",
-  "sha": "23444d9f36a26d80dd440ff43a90f1fba80da7a7",
-  "at": "2026-11-28T17:27:28.301Z",
+  "sha": "fd59df56babbc7052df3086752f39d1926e63eb6",
+  "at": "2026-11-28T17:36:22.160Z",
   "capabilities": {
     "db": {
       "rules": [
